@@ -1,5 +1,4 @@
-name: hello-world
-on:   
+name: Java CI
 push:
   branches:
     - main
